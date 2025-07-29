@@ -12,12 +12,22 @@
     ```bash
     npm install
     ```
-1. ビルドもしくはホットリロード状態にする
+1. ビルドもしくはリアルタイムコンパイル状態にする
     - ビルドの場合
       ```bash
       npm run build
       ```
-    - ホットリロードの場合
+    - リアルタイムコンパイルの場合
       ```bash
       npm run dev
       ```
+1. ブラウザからアクセスして確認する
+    ```bash
+    http://localhost/get-started-tailwindcss
+    ```
+
+## ファイル紹介
+- index.html
+  - daisy UI を使った Tailwind CSS 紹介コード
+- tab.html
+  - Tailwind CSS を使ったタブ参考コード
