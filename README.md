@@ -3,11 +3,11 @@
 ## 始めかた
 1. このリポジトリをクローンする
     ```bash
-    git clone
+    git clone https://github.com/ryukyuhub/get-started-tailwindcss.git
     ```
 2. このプロジェクトディレクトリ（リポジトリ）内で 依存パッケージをインストールする
     ```bash
-    cd directory
+    cd get-started-tailwindcss
     ```
     ```bash
     npm install
